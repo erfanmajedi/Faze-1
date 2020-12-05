@@ -2,6 +2,8 @@ package FoodPlan;
 
 /**
  * FoodPlan represents a schedule for each day and each meal that a student needs to eat
+ * @author Erfan Majedi
+ * @since 2020.5.12
  */
 public class FoodPlan extends javax.swing.JFrame {
     /**
